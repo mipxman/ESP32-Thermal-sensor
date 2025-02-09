@@ -8,8 +8,8 @@ RH_ASK driver(2000, 13, 22, 0); // RF RX on Pin 13
 LiquidCrystal_I2C lcd(0x27, 16, 2); // LCD I2C Address: 0x27
 
 // WiFi Configuration
-const char *ssid = "Xiaomi-12";
-const char *password = "123456Aa";
+const char *ssid = "YOUR WIFI SSID";
+const char *password = "YOUR WIFI PASSWORD";
 WiFiServer server(80);
 
 String receivedData = "Waiting...";
