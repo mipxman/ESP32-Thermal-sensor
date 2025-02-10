@@ -1,6 +1,6 @@
 # ESP32-Thermal-sensor
 
-This project was developed for the **"Applied Electronics for Physics"** course at the **University of Bologna**.  
+This project was developed for the **"Electronics for Applied Physics"** course at the **University of Bologna**.  
 
 You are free to use, modify, and distribute this code for academic and educational purposes.
 
