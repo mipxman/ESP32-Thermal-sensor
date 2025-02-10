@@ -1,4 +1,4 @@
-# ESP32-and RF modules
+# ESP32-S3  and RF modules
 
 This project was developed for the **"Electronics for Applied Physics"** course at the **University of Bologna**.  
 
