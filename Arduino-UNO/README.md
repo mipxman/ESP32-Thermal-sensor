@@ -16,6 +16,6 @@ This project establishes a wireless temperature and humidity monitoring system u
 
 ✔ Low-Power, Cost-Effective Solution
 
-
+![alt text](https://github.com/mipxman/RF-Modules-with-ESP32-S3-and-Arduino/blob/main/images/ARDUINO-UNO-DHT11.png)
 
 © 2025 MO (mipxman)
