@@ -12,7 +12,7 @@ This project establishes a wireless temperature and humidity monitoring system u
 
 ✔ Wireless Data Transmission (RF 433MHz)
 
-✔ Real-Time Monitoring on LCD & Web Interface
+✔ Real-Time Monitoring on LCD & Console monitor 
 
 ✔ Low-Power, Cost-Effective Solution
 
