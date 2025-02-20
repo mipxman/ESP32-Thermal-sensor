@@ -59,6 +59,5 @@ This document is completing soon.
 | **LCD SCL**    | **GPIO 9**      |
 
 
-you can find more tuturial project in **ESP32-S3** from [here](https://github.com/Freenove/Freenove_Basic_Starter_Kit_for_ESP32_S3).
 
 © 2025 MO (mipxman)
