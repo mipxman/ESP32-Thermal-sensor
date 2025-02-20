@@ -19,6 +19,7 @@ This project establishes a wireless temperature and humidity monitoring system u
 ✔ Low-Power, Cost-Effective Solution
 
 
+For details of Arduino MEGA 2560 pinout see [here](https://github.com/mipxman/RF-Modules-with-ESP32-S3-and-Arduino/blob/main/images/A000067-full-pinout.pdf) and for ESPS3-32 see [here](https://github.com/mipxman/RF-Modules-with-ESP32-S3-and-Arduino/blob/main/images/ESP32-S3-pinout.md).
 
 ## 📋 Requirements
 
